@@ -1,2 +1,1 @@
-document.write('abc');
-document.write('dddaa');
+document.write('打印测试JS');
