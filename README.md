@@ -1,6 +1,6 @@
 # multi-html
 
-> 传统页面, 多页面管理, 前端分离模式
+> 传统页面, 多页面管理, 前端分离模式 layui jquery vue
 
 ## Environment
 
