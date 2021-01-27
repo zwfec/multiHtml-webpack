@@ -10,7 +10,7 @@
 
  - 克隆此项目: 
 ```bash
-git clone http://git.b2link.com.cn/jg_dev/multi-html.git
+git clone https://github.com/zwfec/multiHtml-webpack.git
 ```
  - 在项目目录下, 执行命令安装相关依赖:
 
