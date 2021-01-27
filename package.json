@@ -1,7 +1,7 @@
 {
-  "name": "element-starter",
-  "description": "A Vue.js project",
-  "author": "yi.shyang@ele.me",
+  "name": "multi-html",
+  "description": "Layui.js, Vue.js project",
+  "author": "weifeng.zhang@jiangong.sh",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --open --env.dev",
